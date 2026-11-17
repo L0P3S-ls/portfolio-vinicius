@@ -31,3 +31,5 @@ Não é necessário instalar dependências.
 Apresentar minha trajetória de aprendizagem em Engenharia de Software e reunir projetos desenvolvidos durante meus estudos.
 
 ## Link do site hospedado pelono gitpages
+
+https://l0p3s-ls.github.io/portfolio-vinicius/
